@@ -15,13 +15,12 @@ This project implements an automatic street light controller using Arduino, LDR 
 - Automatic light intensity adjustment.
 - Low-cost and simple to implement.
 
-## Video Demonstration
-[Watch the Video Here](<>)
+
 
 ## Components Used
 - Arduino Uno
 - RTC DS3231
 - LDR Sensor
-- MOSFET/Relay for controlling lights
+- Relay for controlling lights
 - LED or any suitable light source
 
